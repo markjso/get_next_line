@@ -1,0 +1,6 @@
+1stLine from file1
+2nd LINE FROM FILE 1
+Line 3 @@@@@@. @@@ @ @ @@ @ @@ @ @ @ @ @ file1
+1234567890file1---line4
+
+Last line (line 6).
